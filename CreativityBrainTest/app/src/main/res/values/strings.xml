@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">Выберите вариант ответа, который вас характеризует</string>
+    <string name="buttonnext">Ответить</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="Results">Ваш результат</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="inputText1">Creativity  Brain  Test</string>
+    <string name="inputText2">В этом тесте вы можете узнать, к какому типу людей вы относитесь и к какому виду деятельности склонен ваш мозг</string>
+    <string name="inputText3">Начать тест</string>
+</resources>

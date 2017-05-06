@@ -1,0 +1,11 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/zas1" android:duration="625"/>
+    <item android:drawable="@drawable/zas2" android:duration="625"/>
+    <item android:drawable="@drawable/zas3" android:duration="625"/>
+    <item android:drawable="@drawable/zas4" android:duration="625"/>
+    <item android:drawable="@drawable/zas5" android:duration="625"/>
+    <item android:drawable="@drawable/zas6" android:duration="625"/>
+    <item android:drawable="@drawable/zas7" android:duration="625"/>
+    <item android:drawable="@drawable/zas8" android:duration="625"/>
+</animation-list>
